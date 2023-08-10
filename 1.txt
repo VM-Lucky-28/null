@@ -1,0 +1,1 @@
+The default git commit message for merge conflicts lists any files that were conflicts. However, it includes them as a comment with the # prefix. This means they'll get stripped from the real commit message, by default.
